@@ -9,11 +9,8 @@
 - 👯 I’m currently collaborating with
   - [OpenMined](https://github.com/OpenMined/) as a content writer
   - [Reyes Lab](http://reyeslab.github.io/) as a researcher and webmaster 
-  
-<br />
-<br />
 
-### Connect with me:
+### Reach out:
 
 [<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,10 +35,10 @@
 [<img align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][sims]
 [<img align="left" alt="Pandas" width="26px" src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/pandas.jpg" />][med-data]
 
-
-
 <br />
 <br />
+
+
 
 ![socd06's GitHub stats](https://github-readme-stats.vercel.app/api?username=socd06&show_icons=true&hide_border=true)
 
