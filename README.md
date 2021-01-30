@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on
+- :construction_worker: I’m currently working on
    - [OpenMined Courses](https://courses.openmined.org/) content
    - [Lennard-Jones simulations dataset for AI training](https://github.com/socd06/lennard-jones-sims)
-- 🌱 I’m currently learning
+- :books: I’m currently learning
   - Cryptography
   - Cybersecurity  
-- 👯 I’m currently collaborating with
+- :handshake: I’m currently collaborating with
   - [OpenMined](https://github.com/OpenMined/) as a content writer
   - [Reyes Lab](http://reyeslab.github.io/) as a researcher and webmaster 
 
