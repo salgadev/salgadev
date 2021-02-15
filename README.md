@@ -7,8 +7,8 @@
   - Cryptography
   - Cybersecurity  
 - :handshake: I’m currently collaborating with
-  - [OpenMined](https://github.com/OpenMined/) as a content writer
-  - [Reyes Lab](http://reyeslab.github.io/) as a researcher and webmaster 
+  - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
+  - [Reyes Lab](http://reyeslab.github.io/) as a Consultant Researcher and Webmaster 
 
 ### Reach out:
 
