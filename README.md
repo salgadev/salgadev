@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - :construction_worker: I’m currently working on
-   - [OpenMined Courses](https://courses.openmined.org/) content
-   - [Lennard-Jones simulations dataset for AI training](https://github.com/socd06/lennard-jones-sims)
-- :books: I’m currently learning
-  - Cryptography
-  - Cybersecurity  
+   - [Automated Testing](https://www.ipgphotonics.com/)
+  
 - :handshake: I’m currently collaborating with
-  - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
-  - [Reyes Lab](http://reyeslab.github.io/) as a Consultant Researcher and Webmaster 
+   - [Reyes Lab](http://reyeslab.github.io/) as a Consultant Researcher
+
+- :books: I previously collaborated with:
+   - [OpenMined Courses](https://courses.openmined.org/) Cryptography content 
+   - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
 
 ### Reach out:
 
