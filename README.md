@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - :construction_worker: I’m currently working on
-   - [Automated Testing](https://www.ipgphotonics.com/)
+   - [Automated Testing](https://www.ipgphotonics.com/). *Sorry. Work repos are private.*
   
 - :handshake: I’m currently collaborating with
-   - [Reyes Lab](http://reyeslab.github.io/) as a Consultant Researcher
+   - [Reyes Lab](http://reyeslab.github.io/) as an AI Consultant
 
 - :books: I previously collaborated with:
+   - [TecMilenio](https://tecmilenio.mx/es/master-en-inteligencia-artificial) Teaching "Foundations and Applications of Artificial Intelligence"
    - [OpenMined Courses](https://courses.openmined.org/) Cryptography content 
    - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
 
