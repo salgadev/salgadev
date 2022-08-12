@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :construction_worker: I’m currently working on
-   - [Automated Testing](https://www.ipgphotonics.com/). *Sorry. Work repos are private.*
+   - [Automated Testing](https://www.ipgphotonics.com/). *Work repos not hosted in GitHub.*
   
 - :handshake: I’m currently collaborating with
    - [Reyes Lab](http://reyeslab.github.io/) as an AI Consultant
