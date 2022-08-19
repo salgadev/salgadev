@@ -4,7 +4,7 @@
    - [Automated Testing](https://www.ipgphotonics.com/). *Work repos not hosted in GitHub.*
   
 - :handshake: I’m currently collaborating with
-   - [Reyes Lab](http://reyeslab.github.io/) as an AI Consultant
+   - [Reyes Lab](http://reyeslab.github.io/) as an Software Development Consultant
 
 - :books: I previously collaborated with:
    - [TecMilenio](https://tecmilenio.mx/es/master-en-inteligencia-artificial) Teaching "Foundations and Applications of Artificial Intelligence"
