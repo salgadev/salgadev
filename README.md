@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 - :construction_worker: I’m currently working on
-   - [Automated Testing](https://www.averna.com/). *Work repos not hosted in GitHub.*
+   - [Optics Software Development](https://www.averna.com/). *Closed-source work*
+- :sparkler: I previously worked on
+   - [Test Automation Framework Development](https://www.ipgphotonics.com/). *Not hosted at GitHub*
   
 - :handshake: I’m currently collaborating with
+   - [Artifice Research](https://huggingface.co/artificeresearch) as AI developer 
    - [Reyes Lab](http://reyeslab.github.io/) as Software Development Consultant
 
 - :books: I previously collaborated with:
