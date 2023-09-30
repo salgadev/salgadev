@@ -1,73 +1,31 @@
-### Hi there 👋
-
-- :construction_worker: I’m currently working on
-   - [Optics Software Development](https://www.averna.com/). *Closed-source work*
+# 💫 About Me:
+- 🔭 I’m currently working on 
+	- [Optics Instrumentation / Test Automation](https://www.averna.com/). *Closed-source*
 - :sparkler: I previously worked on
-   - [Test Automation Framework Development](https://www.ipgphotonics.com/). *Not hosted at GitHub*
-  
-- :handshake: I’m currently collaborating with
-   - [Artifice Research](https://huggingface.co/theartifice) as AI developer 
-   - [Reyes Lab](http://reyeslab.github.io/) as Software Development Consultant
+   - [Test Automation Framework - Windows Desktop](https://www.ipgphotonics.com/). *Not hosted at GitHub*
+- 🤝 I’m currently collaborating with
+   - :robot: [Artifice Research](https://huggingface.co/theartifice) as Computer Vision developer 
+   - :crown: [Reyes Group](https://reyesgroup.tech/) as Software Development Consultant
+-  🌱 I’m currently learning [NixOS](https://nixos.org/) <iconify-icon icon="mdi:nix"></iconify-icon>
 
 - :books: I previously collaborated with:
    - [TecMilenio](https://tecmilenio.mx/es/master-en-inteligencia-artificial) Teaching "Foundations and Applications of Artificial Intelligence"
    - [OpenMined Courses](https://courses.openmined.org/) Cryptography content 
    - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
 
-### Reach out:
 
-[<img align="left" alt="Email me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Message me at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salgadev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@salgadev) 
 
-<br />
-<br />
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=plastic&logo=godot-engine&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=plastic&logo=podman&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=socd06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=socd06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=socd06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages and Tools:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=socd06&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][hospital-beds]
-[<img align="left" alt="Jupyter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][private-ml]
-[<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][dcm]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][sims]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][sims]
-[<img align="left" alt="PyTorch" width="32px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][private-ml]
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Ruby" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][reyes-lab]
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][recalls]
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][recalls]
-[<img align="left" alt="Shell" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][sims]
-[<img align="left" alt="Pandas" width="32px" src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/pandas.jpg" />][med-data]
-<br />
-<br />
-
-
-
-![socd06's GitHub stats](https://github-readme-stats.vercel.app/api?username=socd06&show_icons=true&hide_border=true)
-
-[email]: mailto:csalgado@uwo.ca
-[website]: https://socd06.github.io/
-[linkedin]: https://linkedin.com/in/eng-socd
-[private-ml]: https://github.com/socd06/private_nlp
-[hospital-beds]: https://github.com/socd06/hospital-beds
-[sims]: https://github.com/socd06/lennard-jones-sims
-[reyes-lab]: https://github.com/reyeslab/reyeslab.github.io
-[dcm]: https://github.com/socd06/DCMBoneVolRenderer
-[recalls]: https://github.com/socd06/recalls
-[med-data]: https://github.com/socd06/medical-nlp
-
-
-<!--
-**socd06/socd06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=socd06&icon=1&color=6)](https://visitcount.itsvg.in)
