@@ -1,16 +1,17 @@
 # 💫 About Me:
-- 🔭 I’m currently working on 
-	- [Optics Instrumentation / Test Automation](https://www.averna.com/). *Closed-source*
+-  🌱 I’m currently learning   
+   - Cybersecurity
+      - <img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_horiz_rev_rgb.png" alt="UWaterloo" width="250">
+      - <img src="https://tryhackme-badges.s3.amazonaws.com/salgadev.png" alt="TryHackMe">
+   - [Nix/NixOS](https://nixos.org/)
+	
 - :sparkler: I previously worked on
+   - [Optics Instrumentation / Test Automation](https://www.averna.com/). *Closed-source*
    - [Test Automation Framework - Windows Desktop](https://www.ipgphotonics.com/). *Not hosted at GitHub*
-- 🤝 I’m currently collaborating with
-   - :robot: [Artifice Research](https://huggingface.co/theartifice) as Computer Vision developer 
-   - :crown: [Reyes Group](https://reyesgroup.tech/) as Software Development Consultant
--  🌱 I’m currently learning [NixOS](https://nixos.org/) <iconify-icon icon="mdi:nix"></iconify-icon>
 
 - :books: I previously collaborated with:
    - [TecMilenio](https://tecmilenio.mx/es/master-en-inteligencia-artificial) Teaching "Foundations and Applications of Artificial Intelligence"
-   - [OpenMined Courses](https://courses.openmined.org/) Cryptography content 
+   - [OpenMined Courses](https://courses.openmined.org/) Secure Multi-Party Computation Course Lessons 
    - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
 
 
