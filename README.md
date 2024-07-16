@@ -1,8 +1,8 @@
 # 💫 About Me:
 -  🌱 I’m currently learning   
    - Cybersecurity
-      - <img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_horiz_rev_rgb.png" alt="UWaterloo" width="250">
-      - <img src="https://tryhackme-badges.s3.amazonaws.com/salgadev.png" alt="TryHackMe">
+      - <img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_horiz_rev_rgb.png" alt="UWaterloo" width="150">
+      - <img src="https://tryhackme-badges.s3.amazonaws.com/salgadev.png" alt="TryHackMe" width="150">
    - [Nix/NixOS](https://nixos.org/)
 	
 - :sparkler: I previously worked on
