@@ -1,54 +1,65 @@
-# 💫 About Me:
--  🌱 I’m currently learning   
-   - Cybersecurity
-      - <img src="https://uwaterloo.ca/brand/sites/ca.brand/files/universityofwaterloo_logo_horiz_rev_rgb.png" alt="UWaterloo" width="150">
-      - <img src="https://tryhackme-badges.s3.amazonaws.com/salgadev.png" alt="TryHackMe" width="150">
-   - [Nix/NixOS](https://nixos.org/)
-	
-- :sparkler: I previously worked on
-   - [Optics Instrumentation / Test Automation](https://www.averna.com/). *Closed-source*
-   - [Test Automation Framework - Windows Desktop](https://www.ipgphotonics.com/). *Not hosted at GitHub*
+# Carlos Salgado — Senior Software Developer
+**Test Automation • Embedded/Firmware/HIL • Agentic AI/Computer Vision**  
+Aerospace (MDA Space, Honeywell) → AI-augmented validation systems
 
-- :books: I previously collaborated with:
-   - [TecMilenio](https://tecmilenio.mx/es/master-en-inteligencia-artificial) Teaching "Foundations and Applications of Artificial Intelligence"
-   - [OpenMined Courses](https://courses.openmined.org/) Secure Multi-Party Computation Course Lessons 
-   - [OpenMined](https://github.com/OpenMined/) as a Security Researcher
+## 🎯 Current Focus
+- Architecting **agentic AI for HIL test orchestration** (LangGraph, local LLMs)
+- Building **computer vision pipelines** for hardware-in-the-loop validation  
+- Leading **test automation strategy** for safety-critical embedded systems
 
+## 📊 Key Metrics (from 346 verified bullets)
+```
+HIL/Embedded Test Coverage    ████████████████████  90% (IPG Photonics)
+CI/CD Defect Detection        ██████████████        accelerated (MDA Space)
+Agentic Test Gen              ██████████████        autonomous web journeys (NARWALL)
+Instrumentation Efficiency    ████████████████      30%+ faster (Averna)
+Cost Savings                  ██████████████████    $300K+ verified (Diamond/Honeywell)
+LabVIEW Test Coverage         ██████████████████    85% (IPG Photonics)
+Automation Coverage           ██████████████████    80% (IPG Photonics)
+Quality Trend Improvement     ████████████████████  50%→93% (Triumph)
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salgadev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@salgadev) 
+## 🧠 Three-Track Expertise
+| Test Automation & Quality | Embedded / Firmware / HIL | Agentic AI / CV / ML |
+|---------------------------|---------------------------|----------------------|
+| `pytest` `Selenium` `Jenkins` `GitLab CI` `GitHub Actions` `TestRail` | `C/C++` `Embedded Linux` `CAN` `UART` `HIL/SIL` `FPGA` `NI DAQ` | `LangChain` `Ollama` `OpenCV` `RAG` `Multi-Agent` `Transfer Learning` `Quantization` `PyTorch (academic)` |
 
-# 💻 Tech Stack:
+## 🚀 Flagship Projects (Outcomes-First)
+| Project | Track | Outcome | Link |
+|---------|-------|---------|------|
+| **NARWALL** | Agentic AI + Test | Python-orchestrated LLM agents autonomously explore web apps, surface accessibility issues beyond static scanners; CLI/desktop + API interfaces for CI/CD; deterministic guardrails | [Private — demo on request] |
+| **Agentic Accessibility Auditor** | Agentic AI + Test | Selenium + HuggingFace agents for comprehensive web accessibility audits; vision-language models for UX validation | [repo] |
+| **CV Defect Detector (SpiritVision)** | CV + Embedded | Deep-learning CV system (PyTorch, OpenCV, transfer learning) for manufacturing quality inspection; model compression/quantization for resource-constrained industrial deployment | [salgadev/spiritvision] |
+| **DollyExpertBuilder** | Agentic AI + RAG | 2023 Databricks hackathon; tiny LLM + RAG via LangChain (pre-RAG term); deployed on HuggingFace Spaces; code Q&A expert system | [salgadev/dolly-expert-lite] |
+| **DocVerifyRAG** | AI + Docs | GenAI anomaly detection in building docs; LangChain QA + Vectara vector store + Together.ai; Streamlit app | [salgadev/DocVerifyRAG] |
+| **Color-UX-Access** | AI + Accessibility | Colorblind accessibility testing via VLM simulation (protanopia/deuteranopia); 2×2 CVD grid; Modal/HF Spaces deployment; GitHub Actions CI | [salgadev/color-ux-access] |
+| **HIL Test Harness** | Firmware/HIL | TCP Python testing API; 90% hardware integration test coverage; LabVIEW optical welding control + NI DAQ; custom test automation framework | [repo] |
+| **MDA HIL Automation** | Firmware/HIL | Python/Bash test automation in Jenkins CI/CD; CAN bus API testing on aerospace-grade embedded systems; FPGA/Linux validation; Nix reproducible environments | [MDA Space — proprietary] |
+| **IPG Test Framework** | Test Auto + Firmware | Architected custom Test Automation Framework (Python, Selenium, LabVIEW); Jenkins-like CI/CD; REST API microservices (MySQL/SQLAlchemy); 85% LabVIEW coverage | [IPG Photonics — proprietary] |
 
-1. **Operating Systems**:
-   - ![NixOS Badge](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=flat-square)
-   - ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-   - ![Windows Badge](<https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square>)
+## 🏢 Career Arc
+```mermaid
+timeline
+    2011-2013 : Triumph Group :: Quality Assurance, CAD validation, KPI automation (50%→93%)
+    2014-2016 : Honeywell Aerospace :: Manufacturing QE, Root Cause Analysis SME, Six Sigma Green Belt
+    2015-2016 : Collins Aerospace :: Systems Repair, RF diagnostics, soldering
+    2018-2020 : Diamond Aircraft :: Supplier QE, $250K+ savings, MRB/CAD/GD&T
+    2019-2021 : OpenMined :: SMPC course dev (Additive Secret Sharing, Beaver Triplets), PyTorch, crypto
+    2021-2022 : Tecmilenio :: AI/ML instructor (IBM Cloud, NumPy, SciPy, NLP, Agile)
+    2021-2024 : Independent CV :: Deep learning inspection (PyTorch, OpenCV, transfer learning, quantization)
+    2022-2024 : Averna :: DSP/optical test automation, OOP Python/C++ for embedded Linux, NI DAQ
+    2023-Now  : IPG Photonics :: Test Lead, custom frameworks, LabVIEW, CI/CD, 85% coverage, team lead
+    2024-Now  : MDA Space :: Senior Test Engineer, firmware/HIL validation, CAN/UART, FPGA, Confluence
+    2024-Now  : NARWALL :: Agentic AI testing platform, Selenium + LLM agents, accessibility, CI/CD
+```
 
-2. **Programming**:
-   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) **:{** ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white), ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white), ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) **}**
-   - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-   - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-   - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+## 📜 Selected Contributions & Recognition
+- **OpenMined:** Wrote SMPC lessons (Additive Secret Sharing, Beaver Triplets) — PyTorch, Jupyter, Git
+- **Teaching:** Tecmilenio AI courses (2 master's-level); Master's AI course (IBM Cloud, NumPy, SciPy, Python)
+- **Certifications:** Six Sigma Green Belt (Honeywell), Root Cause Analysis SME (Honeywell), IBM Applied AI, Quality Engineering (CETYS), ISTQB Foundation (training)
+- **Publications:** Medical image processing (Western University MSc thesis, peer-reviewed)
+- **Leadership:** 3-dev teams (IPG, MDA); 10-auditor pool (TCS); 8-person project (Colombia Health Ministry)
+- **Open Source:** OpenMined repo management (4-person team, PR reviews, issue tracking); LMS contributions
 
-3. **Technical Writing**:
-   - ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-   - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-   - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-   - ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-
-4. **Version Control**:
-   - ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
-   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-   - ![Subversion Badge](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff&style=flat-square)
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salgadev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salgadev&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salgadev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salgadev&theme=onedark&no-frame=true&no-bg=false&margin-w=4&rank=-B,-C&row=2&column=3)
-
----
-[![](https://visitcount.itsvg.in/api?id=salgadev&icon=1&color=6)](https://visitcount.itsvg.in)
+## 📬 Connect
+[LinkedIn](https://linkedin.com/in/salgadev) • [Portfolio](https://salgadev.vercel.app) • salgadev@proton.me
