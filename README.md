@@ -1,15 +1,15 @@
 # Carlos Salgado — Senior Software Developer
 **Test Automation • Embedded/Firmware/HIL • Agentic AI/Computer Vision**  
-Aerospace (MDA Space, Honeywell) → AI-augmented validation systems
+Aerospace → AI-augmented validation systems
 
 ## 🎯 Current Focus
 - **Agentic AI:** Multi-agent accessibility testing (NARWALL, Color-UX-Access) — Selenium, Playwright, VLM simulation
-- **HIL/Firmware:** Satellite hardware validation — threaded CAN payload testing, FPGA/Linux verification in Jenkins HIL (MDA Space)
-- **Test Automation:** Continuous testing harnesses — LabVIEW E2E + SQL (IPG Photonics); Python/Bash Jenkins CI/CD (MDA Space)
+- **HIL/Firmware:** Satellite hardware validation — threaded CAN payload testing, FPGA/Linux verification in Jenkins HIL
+- **Test Automation:** Continuous testing harnesses — LabVIEW E2E + SQL (IPG Photonics); Python/Bash Jenkins CI/CD
 
 ## 📊 Key Metrics
 ```
-Continuous Test Harness      ████████████████████  24/7 LabVIEW E2E + SQL (IPG Photonics)
+Continuous Test Harness      ████████████████████  24/7 Python-driven LabVIEW app E2E + SQL (IPG Photonics)
 Jenkins HIL Pipeline         ████████████████      CAN/FPGA validation for satellite boards (MDA Space)
 Agentic Accessibility        ██████████████        autonomous web journeys + VLM simulation (NARWALL)
 Quality Trend                ████████████████████  50%→93% customer satisfaction (Triumph)
