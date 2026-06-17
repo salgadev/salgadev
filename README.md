@@ -3,18 +3,16 @@
 Aerospace (MDA Space, Honeywell) → AI-augmented validation systems
 
 ## 🎯 Current Focus
-- Agentic AI for HIL test orchestration (LangGraph, local LLMs)
-- Computer vision pipelines for hardware-in-the-loop validation
-- Test automation strategy for safety-critical embedded systems
+- **Agentic AI:** Multi-agent accessibility testing (NARWALL, Color-UX-Access) — Selenium, Playwright, VLM simulation
+- **HIL/Firmware:** Satellite hardware validation — threaded CAN payload testing, FPGA/Linux verification in Jenkins HIL (MDA Space)
+- **Test Automation:** Continuous testing harnesses — LabVIEW E2E + SQL (IPG Photonics); Python/Bash Jenkins CI/CD (MDA Space)
 
 ## 📊 Key Metrics
 ```
-HIL Test Coverage         ████████████████████  90% (IPG Photonics)
-Agentic Test Generation   ██████████████        autonomous web journeys (NARWALL)
-Instrumentation Speedup   ████████████████      30%+ faster (Averna)
-Cost Savings              ██████████████████    $300K+ (Diamond/Honeywell)
-LabVIEW Coverage          ██████████████████    85% (IPG Photonics)
-Quality Trend             ████████████████████  50%→93% (Triumph)
+Continuous Test Harness      ████████████████████  24/7 LabVIEW E2E + SQL (IPG Photonics)
+Jenkins HIL Pipeline         ████████████████      CAN/FPGA validation for satellite boards (MDA Space)
+Agentic Accessibility        ██████████████        autonomous web journeys + VLM simulation (NARWALL)
+Quality Trend                ████████████████████  50%→93% customer satisfaction (Triumph)
 ```
 
 ## 🧠 Three-Track Expertise
@@ -35,7 +33,7 @@ Quality Trend             ██████████████████
 - **OpenMined:** Wrote SMPC lessons (Additive Secret Sharing, Beaver Triplets) — [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)
 - **Teaching:** Tecmilenio (2 master's-level AI courses); Master's AI (IBM Cloud, NumPy, SciPy, Python)
 - **Certifications:** Six Sigma Green Belt (Honeywell), Root Cause Analysis SME (Honeywell), IBM Applied AI, Quality Engineering (CETYS)
-- **Publications:** Medical image processing (Western University MSc thesis, peer-reviewed)
+- **Publications:** Medical image processing (Western University MSc thesis) — [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405844024034674)
 
 ## 📬 Connect
 [LinkedIn](https://linkedin.com/in/salgadev) • [Portfolio](https://salgadev.vercel.app) • salgadev@proton.me
